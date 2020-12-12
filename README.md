@@ -15,7 +15,7 @@ This app simulates a real life experience where a user tracks their money, but a
 1)  Clone lab: git clone git@github.com:0216johnsoneric/budget-tracker-app.git Start server with npm start, node 
     server.js nodemon server.js Run in Browser w/ localhost3000 
 
-2)  Deploy on Heroku using MongoDB Atlas: 
+2)  Deploy on Heroku using MongoDB Atlas: https://bank-budget-tracker-app.herokuapp.com/
 
 <img src="public/icons/Screen Shot 2020-12-12 at 3.25.29 PM.png">
 
